@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329013964872",
+    "project_id": "todo-ztls7z",
+    "storage_bucket": "todo-ztls7z.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329013964872:android:f3fd856f985d57a08ae87d",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD82v8XhQpYM0SsoWBJ5e6ZZaVpQgSdgSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
